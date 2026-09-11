@@ -1,0 +1,20 @@
+import React from 'react'
+
+function Content() {
+  return (
+    <div className='content'>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos non impedit consequuntur laboriosam eveniet consequatur hic dolor, corporis blanditiis. Commodi iure eveniet quae deserunt excepturi nisi illo totam. Corrupti error voluptate quidem architecto? Possimus quas quaerat, quod et mollitia neque porro id, voluptate consequuntur rem illo, quidem explicabo velit impedit obcaecati perferendis ab ea.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos non impedit consequuntur laboriosam eveniet consequatur hic dolor, corporis blanditiis. Commodi iure eveniet quae deserunt excepturi nisi illo totam. Corrupti error voluptate quidem architecto? Possimus quas quaerat, quod et mollitia neque porro id, voluptate consequuntur rem illo, quidem explicabo velit impedit obcaecati perferendis ab ea.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos non impedit consequuntur laboriosam eveniet consequatur hic dolor, corporis blanditiis. Commodi iure eveniet quae deserunt excepturi nisi illo totam. Corrupti error voluptate quidem architecto? Possimus quas quaerat, quod et mollitia neque porro id, voluptate consequuntur rem illo, quidem explicabo velit impedit obcaecati perferendis ab ea.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos non impedit consequuntur laboriosam eveniet consequatur hic dolor, corporis blanditiis. Commodi iure eveniet quae deserunt excepturi nisi illo totam. Corrupti error voluptate quidem architecto? Possimus quas quaerat, quod et mollitia neque porro id, voluptate consequuntur rem illo, quidem explicabo velit impedit obcaecati perferendis ab ea.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos non impedit consequuntur laboriosam eveniet consequatur hic dolor, corporis blanditiis. Commodi iure eveniet quae deserunt excepturi nisi illo totam. Corrupti error voluptate quidem architecto? Possimus quas quaerat, quod et mollitia neque porro id, voluptate consequuntur rem illo, quidem explicabo velit impedit obcaecati perferendis ab ea.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos non impedit consequuntur laboriosam eveniet consequatur hic dolor, corporis blanditiis. Commodi iure eveniet quae deserunt excepturi nisi illo totam. Corrupti error voluptate quidem architecto? Possimus quas quaerat, quod et mollitia neque porro id, voluptate consequuntur rem illo, quidem explicabo velit impedit obcaecati perferendis ab ea.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos non impedit consequuntur laboriosam eveniet consequatur hic dolor, corporis blanditiis. Commodi iure eveniet quae deserunt excepturi nisi illo totam. Corrupti error voluptate quidem architecto? Possimus quas quaerat, quod et mollitia neque porro id, voluptate consequuntur rem illo, quidem explicabo velit impedit obcaecati perferendis ab ea.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos non impedit consequuntur laboriosam eveniet consequatur hic dolor, corporis blanditiis. Commodi iure eveniet quae deserunt excepturi nisi illo totam. Corrupti error voluptate quidem architecto? Possimus quas quaerat, quod et mollitia neque porro id, voluptate consequuntur rem illo, quidem explicabo velit impedit obcaecati perferendis ab ea.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam dignissimos non impedit consequuntur laboriosam eveniet consequatur hic dolor, corporis blanditiis. Commodi iure eveniet quae deserunt excepturi nisi illo totam. Corrupti error voluptate quidem architecto? Possimus quas quaerat, quod et mollitia neque porro id, voluptate consequuntur rem illo, quidem explicabo velit impedit obcaecati perferendis ab ea.</p>
+
+    </div>
+  )
+}
+
+export default Content

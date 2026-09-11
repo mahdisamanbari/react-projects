@@ -1,0 +1,42 @@
+.container{
+  width: 1200px;
+  margin: 0 auto;
+}
+header{
+  display: flex;
+  align-items: center;
+  background: #111;
+}
+header ul{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+header ul li {
+  padding: 20px 0;
+  margin-left: 20px;
+  color: #fff;
+  list-style: none;
+}
+.content{
+  padding: 20px 300px;
+}
+.content p{
+  margin-top: 100px;
+}
+.wrapper{
+  position: sticky;
+  top: 0;
+  right: 0;
+}
+.progressbar{
+  width: 100%;
+  height: 12px;
+  z-index: 1;
+  background: #999;
+}
+.progressbarmain{
+  width: 0;
+  height: 12px;
+  background: crimson;
+}
